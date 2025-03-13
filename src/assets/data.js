@@ -24,6 +24,14 @@ export const data = [
       ans: 1,
     },
     {
+      question: "How much brain is missing in Disksha...?",
+      option1: "25%",
+      option2: "50%",
+      option3: "75%",
+      option4: "100%",
+      ans: 4,
+    },
+    {
       question: "A computer cannot BOOT if it does not have the?",
       option1: "Application Software",
       option2: "Internet",
