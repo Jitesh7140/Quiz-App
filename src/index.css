@@ -1,0 +1,30 @@
+@import "tailwindcss";
+ 
+ body {
+  
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  font-family: "Playwrite GB S";
+  font-optical-sizing: auto;
+   
+   
+   background-image: linear-gradient(rgb(68, 197, 236),rgb(35, 114, 187),rgb(64, 62, 207),rgb(33, 56, 185),rgb(8, 4, 252) );
+ 
+}
+
+.hg-line{
+   width: 27rem;
+}
+
+@media screen and (max-width: 640px) {
+  body {
+   display: block;
+  }
+  .hg-line{
+   width: 100%;
+  }
+}
+ 

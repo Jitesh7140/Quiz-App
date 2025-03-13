@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+.correct {
+    border: #68966a;
+  background-color: #68966a;
+  color: white;
+}
+.wrong {
+    border: #c2554d;
+  background-color: #c2554d; 
+  color: white;
+}
