@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),tailwindcss(),],
-  base: "/QuizApp/",
+  base: "/Quiz-App/",
   // server: {
   //   host:"192.168.0.103",
   //   port:3000,
